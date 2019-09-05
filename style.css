@@ -1,6 +1,12 @@
 body{
   color: red;
+  width: 50vw; /*-- comment vw is view width*/
 }
 p {
   color: black;
+  width: 50vw;
+  margin-left: 0 auto;
+}
+h1 {
+  text-align: center;
 }
